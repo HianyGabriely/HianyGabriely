@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#800080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
-[![typing SVG](https://readme-typing-svg.herokuapp.com/color=#800080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Hiany+Gabriely;I'm+a+systems+Analysis+and+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA70D6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Hiany+Silva;I'm+a+systems+Analysis+and+Development+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HianyGabriely&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=#800080&text_color=FFFFFF&bg_color=0d1117" alt="Hiany Gabriely github stats"/>
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HianyGabriely&layout=compact&hide_border=true&title_color=#800080&text_color=FFFFFF&bg_color=0d1117"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HianySilva&show_icons=true&count_private=true&hide_border=true&title_color=DA70D6&icon_color=DA70D6&text_color=FFFFFF&bg_color=0d1117" alt="Hiany Gabriely github stats" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HianyGabriely&layout=compact&hide_border=true&title_color=BA70D6&text_color=FFFFFF&bg_color=0d1117"/>
 </div>
 
 
@@ -17,7 +17,7 @@
 
 <div align="center">
     <a href="https://instagram.com/hianygabriely" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="mailto:cmp.la.hianyg37@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:cmp.la.hgfs@discente.ifpe.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/hiany-silva-a82630277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a>
 </div>
 
